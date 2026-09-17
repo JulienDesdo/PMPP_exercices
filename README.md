@@ -15,5 +15,6 @@ The repository is organized by chapter, with a preliminary `00_pilot` section fo
 01_chapter_01/
 02_chapter_02/
 ...
+```
 
 Current pilot project: [`00_pilot/01_minecraft_gpu_observability`](00_pilot/01_minecraft_gpu_observability)
