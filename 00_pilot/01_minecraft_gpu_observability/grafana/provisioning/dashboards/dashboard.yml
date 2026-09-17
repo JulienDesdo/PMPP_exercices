@@ -1,0 +1,12 @@
+apiVersion: 1
+
+providers:
+  - name: Minecraft GPU Lab
+    orgId: 1
+    folder: GPU Labs
+    type: file
+    disableDeletion: false
+    updateIntervalSeconds: 10
+    allowUiUpdates: true
+    options:
+      path: /var/lib/grafana/dashboards
